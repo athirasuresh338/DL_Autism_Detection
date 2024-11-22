@@ -11,18 +11,6 @@ Autism Spectrum Disorder (ASD) affects communication, behavior, and social inter
 
 ---
 
-## 📜 Table of Contents  
-- [Background](#background)  
-- [Dataset](#dataset)  
-- [Data Preprocessing](#data-preprocessing)  
-- [Model Development](#model-development)  
-- [Prediction and Web App](#prediction-and-web-app)  
-- [Results and Insights](#results-and-insights)  
-- [Camera Access Issues](#camera-access-issues)  
-- [Conclusion](#conclusion)  
-
----
-
 ## 🧠 Background  
 ASD is a developmental condition that impacts social, behavioral, and communicative abilities. Early diagnosis can improve life outcomes by enabling timely interventions. This project applies deep learning to facial image analysis to support early autism detection, aiming to complement traditional diagnostic approaches.  
 
