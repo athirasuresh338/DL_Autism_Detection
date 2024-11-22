@@ -34,7 +34,7 @@ This project leverages **Deep Learning** and **Computer Vision** to detect Autis
 ## 🚀 **How to Use**
 1. Clone the repository.  
    ```bash
-   git clone https://github.com/username/DL_Autism_Detection.git
+   git clone https://github.com/athirasuresh338/DL_Autism_Detection.git
    cd DL_Autism_Detection
    ```
 2. Install dependencies:  
